@@ -143,7 +143,7 @@ Address-space > Physical memory
 
  
 CHAPTER 19
-۱.نانو ثانیه
+۱. micro second
 ۲.
 ۳. 
 5000 عدد مناسب است
